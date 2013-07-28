@@ -1,9 +1,10 @@
 MHProgressView
 ============
 
+![Preview](http://iamkel.net/projects/mhprogressview/demo.gif)
+
+
 A simple progressview indicator that looks like the progressview in Instagram.
-
-
 
 
 
